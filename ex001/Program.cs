@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization; // Para configurar a cultura
 
 namespace Calculo{
     public class Soma{
